@@ -366,7 +366,7 @@ case "$DEVICE" in
             -e 's block/bootdevice/by-name/bluetooth sda11 ' \
             -e 's block/bootdevice/by-name/boot sda17 ' \
             -e 's block/bootdevice/by-name/cache sda19 ' \
-            -e 's block/bootdevice/by-name/carrier sda9 ' \
+            -e 's block/bootdevice/by-name/clogo sda9 ' \
             -e 's block/bootdevice/by-name/cid sda4 ' \
             -e 's block/bootdevice/by-name/cmnlib sdb16 ' \
             -e 's block/bootdevice/by-name/cmnlib64 sdb18 ' \
